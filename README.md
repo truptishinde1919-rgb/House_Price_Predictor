@@ -1,3 +1,3 @@
 # House-Price-Predictor
 description
-some text written on github.com
+House price prediction using California housing dataset (sklearn)
