@@ -128,17 +128,7 @@ Regression modeling
 Model evaluation
 Data visualization
 End-to-End ML project workflow
-## Contributing
 
-Contributions are welcome!
-
-If you'd like to improve this project:
-
-Fork the repository
-Create a new branch
-Commit your changes
-Push to your branch
-Create a Pull Request
 ## License
 
 This project is licensed under the MIT License.
